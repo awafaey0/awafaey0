@@ -13,6 +13,7 @@
   <a href="https://www.linkedin.com/in/awafaey"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-awafaey-0a66c2?style=flat-square"></a>
   <a href="https://www.productvoyagers.com"><img alt="Product Voyagers" src="https://img.shields.io/badge/writing-Product_Voyagers-ff6719?style=flat-square"></a>
   <a href="https://fustat.ai"><img alt="fustat.ai" src="https://img.shields.io/badge/building-fustat.ai-7048e8?style=flat-square"></a>
+  <a href="https://ebs.edu.sa"><img alt="EBS Dx" src="https://img.shields.io/badge/CAIO-EBS_Dx-0b8a5b?style=flat-square"></a>
   <a href="https://korba.ai"><img alt="korba.ai" src="https://img.shields.io/badge/building-korba.ai-1f2328?style=flat-square"></a>
 </p>
 
@@ -31,6 +32,7 @@
 | | What | Proof |
 |---|---|---|
 | **[fustat.ai](https://fustat.ai)** | **Design-Goal Fit.** A critic reviews every screen against the business goal it should move. An LLM-as-judge scores the critique with a hallucination guard, and a persona ensemble (self-consistency sampled) reaches the verdict. Human overrides teach it the team's bar. | 20 customers in month one |
+| **[EBS Dx](https://ebs.edu.sa)** | **Agentic AI executive education for Saudi leaders.** Role-based learning paths, a Challenge Lab with feedback on every decision, and Saria, an AI learning companion, in Arabic and English. I co-founded it and lead AI as CAIO. | Licensed by TVTC & NELC · backed by the Ministry of Investment |
 | **[korba.ai](https://korba.ai)** | An AI browser where you and your agents work side by side, sharing the same page, terminal and document. Teach it a skill by doing it once. | Free · local-first on macOS |
 | **[telos](https://github.com/ProductVoyagers/telos)** | The open-source Claude Code plugin behind fustat: critique flows against Key Results, not taste. | Open source |
 | **[pm-os](https://github.com/ritualspm/pm-os)** | The AI-native PM team OS: four agent roles on shared skills and files, installable in Claude Cowork. | Capstone of AI PM Builders |
@@ -64,6 +66,8 @@ For thirty years the web was something you watched. In korba, you and your agent
 
 - **Delivery Hero** · Sr. Director of Product, Growth & AI, Quick Commerce<br>
   7 brands · 17 squads · 75 countries. Quick commerce grew from 4% to 12% of GMV contribution. I lead the AI practice for our teams.
+- **[EBS Dx](https://ebs.edu.sa)** · Co-founder & Chief AI Officer (2026 → now)<br>
+  Agentic AI education platform for Saudi leaders: personalised paths, a decision Challenge Lab, and Saria, the AI learning companion. Licensed by TVTC and NELC.
 - **ProductVoyagers Labs** · Founder<br>
   My AI studio: [fustat](https://fustat.ai), [korba](https://korba.ai) and [telos](https://github.com/ProductVoyagers/telos).
 - **[rituals.pm](https://rituals.pm)** · Co-founder<br>
