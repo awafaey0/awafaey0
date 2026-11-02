@@ -22,18 +22,36 @@ Growth & AI for Quick Commerce at Delivery Hero (75 markets) · I build agents a
 ## The path
 
 ### Applied AI at scale · 2022 → now
-**Delivery Hero**: Sr. Director of Product, Growth & AI, Quick Commerce. 7 brands, 17 squads, 75 countries. Quick commerce grew from 4% to 12% of GMV contribution; I lead the AI practice for our teams.
-**ProductVoyagers Labs**: my AI studio (korba, fustat, telos). **[rituals.pm](https://rituals.pm)**: co-founder; AI PM Builders cohorts in English and Arabic. I teach LLMs, agents and Claude on Maven and Zomra.
+
+- **Delivery Hero** · Sr. Director of Product, Growth & AI, Quick Commerce<br>
+  7 brands · 17 squads · 75 countries. Quick commerce grew from 4% to 12% of GMV contribution. I lead the AI practice for our teams.
+- **ProductVoyagers Labs** · Founder<br>
+  My AI studio: [fustat](https://fustat.ai), [korba](https://korba.ai) and [telos](https://github.com/ProductVoyagers/telos).
+- **[rituals.pm](https://rituals.pm)** · Co-founder<br>
+  AI PM Builders cohorts in English and Arabic. Open-sourced [pm-os](https://github.com/ritualspm/pm-os) and [claude-101](https://github.com/ritualspm/claude-101).
+- **Maven & Zomra** · Instructor<br>
+  Teaching LLMs, agents and Claude to product builders.
 
 ### Consumer platforms at scale · 2020 → 2022
-**Wayfair**: ML localization protecting $1.6B annual revenue (+24% accuracy, −48% time-to-market).
-**Careem (Uber)**: launched MENA's first Super App; 48M users, +31% discovery.
+
+- **Wayfair** · Product Lead, Internationalization<br>
+  ML localization protecting $1.6B annual revenue: +24% accuracy, −48% time-to-market.
+- **Careem (Uber)** · Lead PM, Super App<br>
+  Launched MENA's first Super App: 48M users, +31% discovery.
 
 ### Data products · 2018 → 2020
-**Boeing Data Analytics Labs**: an aviation data marketplace serving 150+ operators; cloud costs −45%. Star Performer 2018.
+
+- **Boeing Data Analytics Labs** · Sr. Strategic Product Manager<br>
+  Aviation data marketplace serving 150+ operators; cloud costs −45%. Star Performer 2018.
 
 ### Enterprise systems · 2006 → 2018
-**Ericsson · Nokia · Etisalat · ITWorx**: started as a software engineer and spent 12 years integrating billing, CRM and content systems into large telecom operators across Europe, the Middle East and Asia. That's where I learned how enterprises actually adopt software, which is now the hard part of AI.
+
+- **Ericsson** · Strategic Product Manager, Solutions Architect, Integrator
+- **Nokia** · Senior Consultant
+- **Etisalat** · CRM / Billing & Provisioning Lead
+- **ITWorx** · Senior Lead Software Engineer
+
+Started as a software engineer and spent 12 years integrating billing, CRM and content systems into large telecom operators across Europe, the Middle East and Asia. That's where I learned how enterprises actually adopt software, which is now the hard part of AI.
 
 ---
 
