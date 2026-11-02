@@ -3,6 +3,11 @@
   <img alt="Ahmed Wafaey: I take frontier AI from demo to production in messy, multi-market businesses." src="assets/header-light.svg" width="100%">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/path-dark.svg">
+  <img alt="Career in four chapters, 2006 to now. Executive MBA, Durham University Business School." src="assets/path-light.svg" width="100%">
+</picture>
+
 <p align="center">
   <a href="https://awafaey0.github.io"><img alt="Website" src="https://img.shields.io/badge/model_card-awafaey0.github.io-3b5bdb?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/awafaey"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-awafaey-0a66c2?style=flat-square"></a>
@@ -15,6 +20,12 @@
   <code>LLM-as-judge</code> · <code>evals &amp; graders</code> · <code>golden sets</code> · <code>model routing</code> · <code>ensembling</code> · <code>self-consistency</code> · <code>agents</code> · <code>MCP</code> · <code>Claude Code</code>
 </p>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/evals-dark.svg">
+  <img alt="Impact: 4% to 12% GMV share at Delivery Hero, $1.6B revenue protected at Wayfair, 48M Careem users, 20 fustat customers in month one, 150+ Boeing operators, 75 countries." src="assets/evals-light.svg" width="100%">
+</picture>
+
 ## Shipping now
 
 | | What | Proof |
@@ -25,19 +36,23 @@
 | **[pm-os](https://github.com/ritualspm/pm-os)** | The AI-native PM team OS: four agent roles on shared skills and files, installable in Claude Cowork. | Capstone of AI PM Builders |
 | **[claude-101](https://github.com/ritualspm/claude-101)** | Learn Claude by using Claude: a 25-lesson interactive course that runs inside Claude. | Open course by rituals.pm |
 
+
+## [fustat.ai](https://fustat.ai): every screen, on trial
+
+Finds what kills the sale and fixes it. Each screen is judged against the business goal it has to move, not against taste.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/fustat-dark.svg">
-  <img alt="fustat.ai under the hood: input, critic, LLM-as-judge, persona ensemble, verdict; human override loop; lab notes on model routing, golden set and calibration." src="assets/fustat-light.svg" width="100%">
+  <img alt="fustat.ai under the hood: input, critic, LLM-as-judge, persona ensemble, verdict; human override loop; what I tested, am building and learned." src="assets/fustat-light.svg" width="100%">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/evals-dark.svg">
-  <img alt="Results: 4% to 12% GMV share at Delivery Hero, $1.6B revenue protected at Wayfair, 48M Careem users, 20 fustat customers in month one, 150+ Boeing operators, 75 countries." src="assets/evals-light.svg" width="100%">
-</picture>
+## [korba.ai](https://korba.ai): the AI browser you work in, with your agents
+
+For thirty years the web was something you watched. In korba, you and your agents work on the same page, terminal and document.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/path-dark.svg">
-  <img alt="Career in four chapters, 2006 to now. Executive MBA, Durham University Business School." src="assets/path-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/korba-dark.svg">
+  <img alt="korba.ai under the hood: surface, plays, skills, MCP and models; built by one founder with an agent team; share-to-install growth loop." src="assets/korba-light.svg" width="100%">
 </picture>
 
 <details>
