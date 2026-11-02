@@ -1,25 +1,47 @@
-# Ahmed Wafaey
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Ahmed Wafaey: I take frontier AI from demo to production in messy, multi-market businesses." src="assets/header-light.svg" width="100%">
+</picture>
 
-**I take frontier AI from demo to production in messy, multi-market businesses.**
-Growth & AI for Quick Commerce at Delivery Hero (75 markets) · I build agents and evals myself · I teach PMs to do the same.
+<p align="center">
+  <a href="https://awafaey0.github.io"><img alt="Website" src="https://img.shields.io/badge/model_card-awafaey0.github.io-3b5bdb?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/awafaey"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-awafaey-0a66c2?style=flat-square"></a>
+  <a href="https://www.productvoyagers.com"><img alt="Product Voyagers" src="https://img.shields.io/badge/writing-Product_Voyagers-ff6719?style=flat-square"></a>
+  <a href="https://fustat.ai"><img alt="fustat.ai" src="https://img.shields.io/badge/building-fustat.ai-7048e8?style=flat-square"></a>
+  <a href="https://korba.ai"><img alt="korba.ai" src="https://img.shields.io/badge/building-korba.ai-1f2328?style=flat-square"></a>
+</p>
 
-[Website](https://awafaey0.github.io) · [LinkedIn](https://www.linkedin.com/in/awafaey) · [Product Voyagers](https://www.productvoyagers.com) · Berlin · EN / AR / DE
-
----
+<p align="center">
+  <code>LLM-as-judge</code> · <code>evals &amp; graders</code> · <code>golden sets</code> · <code>model routing</code> · <code>ensembling</code> · <code>self-consistency</code> · <code>agents</code> · <code>MCP</code> · <code>Claude Code</code>
+</p>
 
 ## Shipping now
 
 | | What | Proof |
 |---|---|---|
-| **[fustat.ai](https://fustat.ai)** | **Design-Goal Fit.** An LLM judge scores every screen against the business goal it should move. A second model grades the judge, synthetic persona cohorts test the flow, and human experts can overrule. | 20 customers in month one |
-| **[korba.ai](https://korba.ai)** | An AI browser where you and your agents work side by side, sharing the same page, terminal and document. Users teach it skills by demonstrating once. | Free · local-first on macOS |
+| **[fustat.ai](https://fustat.ai)** | **Design-Goal Fit.** A critic reviews every screen against the business goal it should move. An LLM-as-judge scores the critique with a hallucination guard, and a persona ensemble (self-consistency sampled) reaches the verdict. Human overrides teach it the team's bar. | 20 customers in month one |
+| **[korba.ai](https://korba.ai)** | An AI browser where you and your agents work side by side, sharing the same page, terminal and document. Teach it a skill by doing it once. | Free · local-first on macOS |
 | **[telos](https://github.com/ProductVoyagers/telos)** | The open-source Claude Code plugin behind fustat: critique flows against Key Results, not taste. | Open source |
 | **[pm-os](https://github.com/ritualspm/pm-os)** | The AI-native PM team OS: four agent roles on shared skills and files, installable in Claude Cowork. | Capstone of AI PM Builders |
 | **[claude-101](https://github.com/ritualspm/claude-101)** | Learn Claude by using Claude: a 25-lesson interactive course that runs inside Claude. | Open course by rituals.pm |
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/fustat-dark.svg">
+  <img alt="fustat.ai under the hood: input, critic, LLM-as-judge, persona ensemble, verdict; human override loop; lab notes on model routing, golden set and calibration." src="assets/fustat-light.svg" width="100%">
+</picture>
 
-## The path
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/evals-dark.svg">
+  <img alt="Results: 4% to 12% GMV share at Delivery Hero, $1.6B revenue protected at Wayfair, 48M Careem users, 20 fustat customers in month one, 150+ Boeing operators, 75 countries." src="assets/evals-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/path-dark.svg">
+  <img alt="Career in four chapters, 2006 to now. Executive MBA, Durham University Business School." src="assets/path-light.svg" width="100%">
+</picture>
+
+<details>
+<summary><b>The full path</b>: every role, chapter by chapter</summary>
 
 ### Applied AI at scale · 2022 → now
 
@@ -53,7 +75,11 @@ Growth & AI for Quick Commerce at Delivery Hero (75 markets) · I build agents a
 
 Started as a software engineer and spent 12 years integrating billing, CRM and content systems into large telecom operators across Europe, the Middle East and Asia. That's where I learned how enterprises actually adopt software, which is now the hard part of AI.
 
----
+### Education
+
+- **Durham University Business School** · Executive MBA
+
+</details>
 
 ## What I believe
 Models are no longer the bottleneck. **Evaluation, integration and adoption are.** Everything above is one of those three.
