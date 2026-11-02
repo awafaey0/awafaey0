@@ -41,6 +41,8 @@
 
 Finds what kills the sale and fixes it. Each screen is judged against the business goal it has to move, not against taste.
 
+<a href="https://fustat.ai"><img alt="fustat.ai: find what kills the sale, fix it. A/B test: added to bag 18% to 31%. Weak (goal fit 2/5) to Strong (4/5)." src="assets/fustat-product.png" width="100%"></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/fustat-dark.svg">
   <img alt="fustat.ai under the hood: input, critic, LLM-as-judge, persona ensemble, verdict; human override loop; what I tested, am building and learned." src="assets/fustat-light.svg" width="100%">

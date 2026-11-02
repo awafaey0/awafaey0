@@ -13,7 +13,7 @@
   <linearGradient id="name" x1="0" x2="1"><stop offset="0" stop-color="#e6edf3"/><stop offset="1" stop-color="#8ea6ff"/></linearGradient>
 </defs>
 <rect class="card" x="1" y="1" width="1198" height="398" rx="18"/>
-<text x="56" y="56" class="muted mono" font-size="14" letter-spacing="2.5">TRAINING DATA · FOUR CHAPTERS · 20 YEARS</text>
+<text x="56" y="56" class="muted mono" font-size="14" letter-spacing="2.5">THE PATH · FOUR CHAPTERS · 20 YEARS</text>
 <path id="r" d="M78 152 H1140" stroke="url(#rail)" stroke-width="3" stroke-linecap="round" fill="none"/>
 <path d="M1132 145 L1144 152 L1132 159" stroke="#c4a7ff" stroke-width="3" fill="none" stroke-linecap="round"/>
 <circle r="5" fill="#c4a7ff"><animateMotion dur="5s" repeatCount="indefinite" path="M78 152 H1134"/>
