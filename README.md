@@ -33,7 +33,7 @@
 |---|---|---|
 | **[fustat.ai](https://fustat.ai)** | **Design-Goal Fit.** A critic reviews every screen against the business goal it should move. An LLM-as-judge scores the critique with a hallucination guard, and a persona ensemble (self-consistency sampled) reaches the verdict. Human overrides teach it the team's bar. | 20 customers in month one |
 | **[EBS Dx](https://ebs.edu.sa)** | **Agentic AI executive education for Saudi leaders.** Role-based learning paths, a Challenge Lab with feedback on every decision, and Saria, an AI learning companion, in Arabic and English. I co-founded it and lead AI as CAIO. | Licensed by TVTC & NELC · backed by the Ministry of Investment |
-| **[korba.ai](https://korba.ai)** | An AI browser where you and your agents work side by side, sharing the same page, terminal and document. Teach it a skill by doing it once. | Free · local-first on macOS |
+| **[korba.ai](https://korba.ai)** | **Build AI workflows visually.** Drag skills, agents and MCP connectors onto a canvas, wire them into flows, and let them run. | 600 users · free for Mac |
 | **[telos](https://github.com/ProductVoyagers/telos)** | The open-source Claude Code plugin behind fustat: critique flows against Key Results, not taste. | Open source |
 | **[pm-os](https://github.com/ritualspm/pm-os)** | The AI-native PM team OS: four agent roles on shared skills and files, installable in Claude Cowork. | Capstone of AI PM Builders |
 | **[claude-101](https://github.com/ritualspm/claude-101)** | Learn Claude by using Claude: a 25-lesson interactive course that runs inside Claude. | Open course by rituals.pm |
@@ -53,7 +53,7 @@ Finds what kills the sale and fixes it. Each screen is judged against the busine
 
 ## [korba.ai](https://korba.ai): the AI browser you work in, with your agents
 
-For thirty years the web was something you watched. In korba, you and your agents work on the same page, terminal and document.
+Build AI workflows visually. Drag skills, agents and MCP connectors onto a canvas, wire them into flows, and let them run. 600 users and counting.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/korba-dark.svg">
