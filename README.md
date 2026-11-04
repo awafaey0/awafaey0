@@ -73,7 +73,7 @@ Build AI workflows visually. Drag skills, agents and MCP connectors onto a canva
 - **ProductVoyagers Labs** · Founder<br>
   My AI studio: [fustat](https://fustat.ai), [korba](https://korba.ai) and [telos](https://github.com/ProductVoyagers/telos).
 - **[rituals.pm](https://rituals.pm)** · Co-founder<br>
-  AI PM Builders cohorts in English and Arabic. Open-sourced [pm-os](https://github.com/ritualspm/pm-os) and [claude-101](https://github.com/ritualspm/claude-101).
+  A product network for EMEA: 2,000+ PMs and 55+ founders from 10 countries. I lead AI PM Builders, where PMs ship a real AI product to production in four weeks, spec'd, built, evaluated and priced; now in cohort 3, in Arabic and English. Open-sourced [pm-os](https://github.com/ritualspm/pm-os) and [claude-101](https://github.com/ritualspm/claude-101).
 - **Maven & Zomra** · Instructor<br>
   Teaching LLMs, agents and Claude to product builders.
 
