@@ -109,5 +109,6 @@ Models are no longer the bottleneck. **Evaluation, integration and adoption are.
 
 ## Writing & talks
 - **[Product Voyagers](https://www.productvoyagers.com)**: essays on product and AI
-- AI Product Summit Berlin 2026: roundtable host and panel, *Building for global audiences at scale*
+- **Conference speaker for 3+ years** on product and AI across Europe, the Middle East and Africa, including Product School's ProductCon
+- Recent: AI Product Summit Berlin 2026, roundtable host and panelist
 - [Product School](https://productschool.com/product-leaders/ahmed-wafaey): instructor and featured speaker
