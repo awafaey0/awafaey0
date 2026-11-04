@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/awafaey"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-awafaey-0a66c2?style=flat-square"></a>
   <a href="https://www.productvoyagers.com"><img alt="Product Voyagers" src="https://img.shields.io/badge/writing-Product_Voyagers-ff6719?style=flat-square"></a>
   <a href="https://fustat.ai"><img alt="fustat.ai" src="https://img.shields.io/badge/building-fustat.ai-7048e8?style=flat-square"></a>
-  <a href="https://ebs.edu.sa"><img alt="EBS Dx" src="https://img.shields.io/badge/CAIO-EBS_Dx-0b8a5b?style=flat-square"></a>
+  <a href="https://ebs.edu.sa"><img alt="EBS Dx" src="https://img.shields.io/badge/co--founder-EBS_Dx-0b8a5b?style=flat-square"></a>
   <a href="https://korba.ai"><img alt="korba.ai" src="https://img.shields.io/badge/building-korba.ai-1f2328?style=flat-square"></a>
 </p>
 
