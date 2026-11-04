@@ -24,7 +24,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/evals-dark.svg">
-  <img alt="Impact: 4% to 18% GMV share at Delivery Hero, $1.6B revenue protected at Wayfair, 48M Careem users, 20 fustat customers in month one, 150+ Boeing operators, 75 countries." src="assets/evals-light.svg" width="100%">
+  <img alt="Impact: 4% to 19% GMV share at Delivery Hero, $1.6B revenue protected at Wayfair, 48M Careem users, 20 fustat customers in month one, 150+ Boeing operators, 75 countries." src="assets/evals-light.svg" width="100%">
 </picture>
 
 ## Shipping now
@@ -67,7 +67,7 @@ For thirty years the web was something you watched. In korba, you and your agent
 ### Applied AI at scale · 2022 → now
 
 - **Delivery Hero** · Sr. Director of Product, Growth & AI, Quick Commerce<br>
-  7 brands · 17 squads · 75 countries. Grew quick commerce from 4% to 18% of GMV contribution. Led the largest programme in the company: moving the experience from store-first to item-first. Built the product operating model for all of Quick Commerce, and founded the AI practice applying LLMs to content enrichment and discovery.
+  7 brands · 17 squads · 75 countries. Grew quick commerce from 4% to 19% of GMV contribution. Led the largest programme in the company: moving the experience from store-first to item-first. Built the product operating model for all of Quick Commerce, and founded the AI practice applying LLMs to content enrichment and discovery.
 - **[EBS Dx](https://ebs.edu.sa)** · Co-founder & Chief AI Officer (2026 → now)<br>
   Agentic AI education platform for Saudi leaders: personalised paths, a decision Challenge Lab, and Saria, the AI learning companion. Licensed by TVTC and NELC.
 - **ProductVoyagers Labs** · Founder<br>
