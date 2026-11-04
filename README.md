@@ -50,6 +50,8 @@ Finds what kills the sale and fixes it. Each screen is judged against the busine
   <img alt="fustat.ai under the hood: input, critic, LLM-as-judge, persona ensemble, verdict; human override loop; what I tested, am building and learned." src="assets/fustat-light.svg" width="100%">
 </picture>
 
+→ [Under the hood and 5 architecture decisions](https://awafaey0.github.io/fustat/): why the judge isn't routed, why the golden set is frozen, why hallucination is a hard gate.
+
 ## [korba.ai](https://korba.ai): the AI browser you work in, with your agents
 
 For thirty years the web was something you watched. In korba, you and your agents work on the same page, terminal and document.
@@ -58,6 +60,8 @@ For thirty years the web was something you watched. In korba, you and your agent
   <source media="(prefers-color-scheme: dark)" srcset="assets/korba-dark.svg">
   <img alt="korba.ai under the hood: surface, plays, skills, MCP and models; built by one founder with an agent team; share-to-install growth loop." src="assets/korba-light.svg" width="100%">
 </picture>
+
+→ [Under the hood and 4 architecture decisions](https://awafaey0.github.io/korba/): leaving Electron for Tauri 2, one play engine, no accounts first, sharing as acquisition.
 
 <details>
 <summary><b>The full path</b>: every role, chapter by chapter</summary>
