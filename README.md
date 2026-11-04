@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/awafaey"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-awafaey-0a66c2?style=flat-square"></a>
   <a href="https://www.productvoyagers.com"><img alt="Product Voyagers" src="https://img.shields.io/badge/writing-Product_Voyagers-ff6719?style=flat-square"></a>
   <a href="https://fustat.ai"><img alt="fustat.ai" src="https://img.shields.io/badge/building-fustat.ai-7048e8?style=flat-square"></a>
-  <a href="https://ebs.edu.sa"><img alt="EBS Dx" src="https://img.shields.io/badge/co--founder-EBS_Dx-0b8a5b?style=flat-square"></a>
+  <a href="https://ebs.edu.sa"><img alt="EBS Dx" src="https://img.shields.io/badge/AI_advisor-EBS_Dx-0b8a5b?style=flat-square"></a>
   <a href="https://korba.ai"><img alt="korba.ai" src="https://img.shields.io/badge/building-korba.ai-1f2328?style=flat-square"></a>
 </p>
 
@@ -32,7 +32,7 @@
 | | What | Proof |
 |---|---|---|
 | **[fustat.ai](https://fustat.ai)** | **Design-Goal Fit.** A critic reviews every screen against the business goal it should move. An LLM-as-judge scores the critique with a hallucination guard, and a persona ensemble (self-consistency sampled) reaches the verdict. Human overrides teach it the team's bar. | 20 customers in month one |
-| **[EBS Dx](https://ebs.edu.sa)** | **Agentic AI executive education for Saudi leaders.** Role-based learning paths, a Challenge Lab with feedback on every decision, and Saria, an AI learning companion, in Arabic and English. I co-founded it and lead AI as CAIO. | Licensed by TVTC & NELC · backed by the Ministry of Investment |
+| **[EBS Dx](https://ebs.edu.sa)** | **Agentic AI executive education for Saudi leaders.** Role-based learning paths, a Challenge Lab with feedback on every decision, and Saria, an AI learning companion, in Arabic and English. I advise on AI. | Licensed by TVTC & NELC · backed by the Ministry of Investment |
 | **[korba.ai](https://korba.ai)** | **Build AI workflows visually.** Drag skills, agents and MCP connectors onto a canvas, wire them into flows, and let them run. | 600 users · free for Mac |
 | **[telos](https://github.com/ProductVoyagers/telos)** | The open-source Claude Code plugin behind fustat: critique flows against Key Results, not taste. | Open source |
 | **[pm-os](https://github.com/ritualspm/pm-os)** | The AI-native PM team OS: four agent roles on shared skills and files, installable in Claude Cowork. | Capstone of AI PM Builders |
@@ -68,8 +68,8 @@ Build AI workflows visually. Drag skills, agents and MCP connectors onto a canva
 
 - **Delivery Hero** · Sr. Director of Product, Growth & AI, Quick Commerce<br>
   7 brands · 17 squads · 75 countries. Grew quick commerce from 4% to 19% of GMV contribution. Led the largest programme in the company: moving the experience from store-first to item-first. Built the product operating model for all of Quick Commerce, and founded the AI practice applying LLMs to content enrichment and discovery.
-- **[EBS Dx](https://ebs.edu.sa)** · Co-founder & Chief AI Officer (2026 → now)<br>
-  Agentic AI education platform for Saudi leaders: personalised paths, a decision Challenge Lab, and Saria, the AI learning companion. Licensed by TVTC and NELC.
+- **[EBS Dx](https://ebs.edu.sa)** · AI Advisor (2026 → now)<br>
+  Advise on AI for an agentic executive-education platform for Saudi public-sector and enterprise leaders; licensed by TVTC and the National eLearning Center, backed by the Ministry of Investment.
 - **ProductVoyagers Labs** · Founder<br>
   My AI studio: [fustat](https://fustat.ai), [korba](https://korba.ai) and [telos](https://github.com/ProductVoyagers/telos).
 - **[rituals.pm](https://rituals.pm)** · Co-founder<br>
