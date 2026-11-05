@@ -31,7 +31,7 @@
 
 | | What | Proof |
 |---|---|---|
-| **[fustat.ai](https://fustat.ai)** | **Design-Goal Fit.** A critic reviews every screen against the business goal it should move. An LLM-as-judge scores the critique with a hallucination guard, and a persona ensemble (self-consistency sampled) reaches the verdict. Human overrides teach it the team's bar. | 20 customers in month one |
+| **[fustat.ai](https://fustat.ai)** | **Design-Goal Fit.** A critic reviews every screen against the business goal it should move. A separate LLM-as-judge scores the critique on a six-dimension rubric, validated at 82% agreement with human labels; a persona ensemble reaches the verdict, and human overrides teach it the team's bar. | 20 customers in month one |
 | **[EBS Dx](https://ebs.edu.sa)** | **Agentic AI executive education for Saudi leaders.** Role-based learning paths, a Challenge Lab with feedback on every decision, and Saria, an AI learning companion, in Arabic and English. I advise on AI. | Licensed by TVTC & NELC · backed by the Ministry of Investment |
 | **[korba.ai](https://korba.ai)** | **Build AI workflows visually.** Drag skills, agents and MCP connectors onto a canvas, wire them into flows, and let them run. | 600 users · free for Mac |
 | **[telos](https://github.com/ProductVoyagers/telos)** | The open-source Claude Code plugin behind fustat: critique flows against Key Results, not taste. | Open source |
@@ -42,6 +42,10 @@
 ## [fustat.ai](https://fustat.ai): every screen, on trial
 
 Finds what kills the sale and fixes it. Each screen is judged against the business goal it has to move, not against taste.
+
+**Every opinion ships with proof.** A critic writes the critique; a separate, read-only judge scores it on a six-dimension rubric (/30, pass at 24). The judge is validated, not assumed: **82% agreement with human labels** (9/11, labelled blind to the judge's score; an early baseline, re-run at n ≥ 30), and a threshold sweep confirmed 24/30 as the optimal cut.
+
+`LLM-as-a-judge` · `rubric scoring` · `ground-truth anchoring` · `confidence calibration` · `golden-set regression` · `offline + online evals` · `preference / RLHF-ready corpus` · `prompt caching` · `model routing`
 
 <a href="https://fustat.ai"><img alt="fustat.ai: find what kills the sale, fix it. A/B test: added to bag 18% to 31%. Weak (goal fit 2/5) to Strong (4/5)." src="assets/fustat-product.png" width="100%"></a>
 
